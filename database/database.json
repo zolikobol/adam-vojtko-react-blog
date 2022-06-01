@@ -41,17 +41,26 @@
       {
         "id": 1,
         "body": "I like this post a lot.",
-        "postId": 2
+        "postId": 2,
+        "userId": 1
       },
       {
         "id": 2,
         "body": "This is the best post. Thumbs up!",
-        "postId": 2
+        "postId": 2,
+        "userId": 2
       },
       {
         "id": 3,
         "body": "I don`t like this post!",
-        "postId": 2
+        "postId": 2,
+        "userId": 2
+      },
+      {
+        "id": 4,
+        "body": "I don`t like this post!",
+        "postId": 4,
+        "userId": 1
       }
     ],
     "users": [
